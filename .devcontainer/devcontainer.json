@@ -1,0 +1,38 @@
+{
+  "name": "Lab Protocols",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "containerEnv": {
+    "UV_PROJECT_ENVIRONMENT": "/home/vscode/.venvs/lab-protocols"
+  },
+  "postCreateCommand": "uv sync --locked",
+  "forwardPorts": [
+    8000
+  ],
+  "portsAttributes": {
+    "8000": {
+      "label": "Zensical preview",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "DavidAnson.vscode-markdownlint",
+        "redhat.vscode-yaml",
+        "yzhang.markdown-all-in-one"
+      ],
+      "settings": {
+        "editor.wordWrap": "on",
+        "files.trimTrailingWhitespace": true,
+        "markdown.validate.enabled": true,
+        "yaml.schemas": {
+          "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml"
+        }
+      }
+    }
+  },
+  "remoteUser": "vscode"
+}

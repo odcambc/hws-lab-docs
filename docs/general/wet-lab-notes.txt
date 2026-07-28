@@ -1,0 +1,49 @@
+Random wet lab notes
+Bacterial strain resistances
+DNA
+DH5α - none
+DH10B - streptomycin
+NEB Stable - streptomycin, tetracycline
+NEB Turbo - none
+Stbl2 - none
+Stbl3 - streptomycin
+Stbl4 - tetracycline
+
+Protein
+BL21(DE3) - none
+BL21(DE3)pLysS/pLysE - chloramphenicol
+Rosetta(DE3) - chloramphenicol
+Rosetta 2(DE3) - chloramphenicol (pRARE2)
+Origami B(DE3) - kanamycin, tetracycline
+Origami 2(DE3) - streptomycin, tetracycline
+Rosetta-gami B(DE3) - kanamycin + tetracycline + chloramphenicol
+Rosetta-gami 2(DE3) - chloramphenicol, tetracycline, streptomycin
+Lemo21(DE3) - chloramphenicol (pLemo plasmid)
+SHuffle T7 - streptomycin, spectinomycin
+SHuffle T7 Express - streptomycin, spectinomycin, tetracycline
+
+
+Antibiotics for Plasmid Selection
+Working Concentration
+Ampicillin (use carb tho)
+100 µg/ml
+Carbenicillin
+100 µg/ml
+Chloramphenicol
+33 µg/ml
+Kanamycin
+30 µg/ml
+Streptomycin
+25 µg/ml
+Tetracycline
+15 µg/ml
+
+
+
+Running gels
+DNA
+
+Protein
+
+Other
+If you use the JLA-10.500 and you don’t need all 6 spot, you _need_ to fill them with empty buckets - don’t spin it without all the spots having a bucket! The empty buckets don’t need a bottle in them.

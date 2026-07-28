@@ -1,0 +1,75 @@
+How to place orders
+
+TLDR slack Chris
+
+Check the Biochemistry intranet for purchasing info as well (https://uwprod.sharepoint.com/sites/biochem/purchasing)
+
+The Biochemistry office has a stock room in the back with pens, printer paper, notebooks and other basic stuff
+
+Other (strictly) office supplies (printer toner, etc) must be ordered through the Biochem department
+Use program ID PG000019893
+
+Check in if you’re ordering something over $1000 or if you have any questions, otherwise just get it
+Ordering
+Ship-to address: BSB (440 Henry Mall)
+Deliver-to address: Biochemical Sciences, DeLuca, Hector F-0204-02-2208
+
+Current shortcode split (Jun 10, 2026)
+PG000032603 - 50%
+PG000036118 - 50%
+
+To set this up
+Search for “Create Requisition Worktags Template” in workday
+Give it a name
+Pick “create split allocations template”
+Enter the programs with the given percentages above
+Use this as your funding info during requisitions
+
+How to set defaults
+Use magic (aka I forget)
+
+Plasmidsaurus
+We have a standing PO.
+
+Submit your order to Plasmidsaurus through your own account
+Ask for help setting it up if you have any questions
+Use the PO number PO-00183342 for the payment method
+Follow the instructions to prepare your sample and drop it off in the dropbox
+Wait for sequencing results
+
+Ordering a gene from Addgene
+You can’t just order a gene from Addgene - it needs to go through some additional steps. It’s still simple though. If you’re unsure about anything just email purchasing, they’re very helpful.
+
+Find the construct on Addgene
+Submit a non-catalog order for the construct
+Biochem purchasing should make the order on your behalf and handle the logistics.
+You might get some emails forwarded to you to sign - make sure you do.
+Hannah might need to fill out an approval but that will also be emailed to her.
+Wait for your gene!
+
+Receiving orders
+If it’s not a chemical
+Give it to whoever ordered it. If that was you:
+Open it (important step)
+Remove the packing slip and make sure everything is right
+Store the packing slip in the packing slip spot (as of Feb 5, 2026 this is in a drawer labeled “packing slips”)
+Break down any boxes and put them out to recycle
+Put it away
+If a chemical was ordered through Chemmanager
+The package should arrive with barcodes attached to it. It has already been entered in the lab chemical stores, it just needs to be received by the lab. Open Chemmanager, select receiving actions, search for the item there and receive it. Make sure to use the correct barcode on the container.
+
+If a chemical was ordered outside of Chemmanager
+To add items to chemmanager that were purchased outside of it, you need to create a container.
+Material search
+Search for compound (using the CAS number is usually best)
+Select “add container” from the correct chemical that comes up
+Add details and add barcode
+Voila
+Common orders
+Gloves
+USA Scientific etc
+Pipette tips
+Blah blah
+Serological syringes
+Etc
+Etc

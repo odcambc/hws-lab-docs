@@ -1,0 +1,55 @@
+Lab recipes and SOPs
+Sterilization
+Filtration
+0.22 µm: sterilization
+0.45 µm: filtration, not sterilization
+
+Membrane choices:
+
+PES
+Aqueous solutions
+PVDF (hydrophilic)
+Protein-containing solutions
+PTFE (hydrophobic)
+Corrosives, organics, harsh stuff
+Nylon
+Aqueous solutions
+Cellulose acetate
+Aqueous solutions
+Regenerated cellulose
+Aqueous solutions and solvents
+Autoclaving
+Generally: 121°C at 15 psi for some period of time (30 minutes often). This may need to be increased if the chamber is very full.
+
+Liquids use a slow exhaust. Solids and dry goods (pipette tips, etc) use fast exhaust.
+
+Autoclave tape only shows that the chamber reached a temperature, now how long it was there.
+
+Don’t autoclave:
+Polystyrene
+Polyethylene
+Polyurethane
+
+Decontamination
+Use bleach
+Make every n months
+
+Use ethanol
+Expires after n months
+
+Waste disposal
+Bio waste
+Use double bags, wrap and seal with autoclave tape
+DO NOT USE RED BIOHAZARD ONES!
+Autoclave on waste cycle
+Which?
+Add green “safe to trash” sticker to bag and leave in the bin by the autoclave for pickup
+Serological pipettes
+Collect them in an autoclavable container (cardboard box is good) with a waste liner
+Decontaminate with autoclave
+Add green “safe to trash” sticker and leave with trash for pickup
+Sharps
+
+Chemical waste
+
+
