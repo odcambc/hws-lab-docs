@@ -5,8 +5,8 @@ exclude_docs: |
 
 theme:
   name: material
-  logo: assets/logo.svg
-  favicon: assets/favicon.svg
+  logo: assets/bucky.png
+  favicon: assets/numen-logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -43,7 +43,7 @@ nav:
       - Contributing: start-here/contributing.md
   - General lab info:
       - general/index.md
-      - Ordering and receiving: general/ordering.md
+      - Ordering and receiving: general/ordering
       - Wet-lab reference: general/wet-lab-reference.md
       - Sterilization and waste: general/sterilization-and-waste.md
   - Protocols:

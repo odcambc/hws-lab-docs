@@ -4,7 +4,7 @@ Day-to-day operational guidance for working in the lab.
 
 ## Purchasing
 
-- [Ordering and receiving](ordering.md) - funding, special vendors, deliveries,
+- [Ordering and receiving](ordering/index.md) - funding, special vendors, deliveries,
   and chemical inventory
 
 ## Wet-lab operations
