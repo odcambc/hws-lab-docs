@@ -33,6 +33,14 @@ Then open <http://127.0.0.1:8000>.
 uv run zensical build --strict
 ```
 
+## Deploy to GitHub Pages
+
+Pushes to `main` deploy the static site with GitHub Actions. In the GitHub
+repository settings, set **Pages > Build and deployment > Source** to
+**GitHub Actions**. The published site URL is:
+
+<https://WaymentSteeleLab.github.io/hws-lab-docs/>
+
 Protocol content lives in `docs/`. Copy
 `docs/protocols/_template.md` when starting a new protocol.
 
