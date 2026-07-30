@@ -105,4 +105,4 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright 2026, Wayment-Steele lab. Licensed under MIT. <a href="https://github.com/WaymentSteeleLab/hws-lab-docs">Code on GitHub</a>.
+copyright: Copyright 2026, <a href="https://waymentsteelelab.org/">Wayment-Steele lab</a>. Licensed under MIT. <a href="https://github.com/WaymentSteeleLab/hws-lab-docs">Code on GitHub</a>.
