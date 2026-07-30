@@ -6,12 +6,16 @@ tags:
 
 # 1× phosphate-buffered saline
 
+<div class="protocol-meta" markdown>
+
 | | |
 |---|---|
 | **Status** | <span class="status approved">Approved</span> |
 | **Owner** | General Lab |
 | **Version** | 1.0 |
 | **Last reviewed** | 15 July 2026 |
+
+</div>
 
 !!! danger "Demonstration content only"
     Verify this formulation against the lab's validated recipe before use.

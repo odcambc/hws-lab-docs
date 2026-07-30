@@ -1,5 +1,6 @@
 site_name: Wayment-Steele Lab Protocols
 site_description: Protocols and SOPs for lab work
+site_url: https://odcambc.github.io/hws-lab-docs/
 exclude_docs: |
   protocols/_template.md
 
@@ -28,8 +29,8 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.path
-    - navigation.sections
     - navigation.top
+    - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
@@ -39,11 +40,15 @@ nav:
   - Home: index.md
   - Start here:
       - start-here/index.md
-      - Onboarding: start-here/onboarding.md
       - Contributing: start-here/contributing.md
   - General lab info:
       - general/index.md
-      - Ordering and receiving: general/ordering
+      - Ordering:
+          - general/ordering/index.md
+          - Ordering and receiving: general/ordering/ordering.md
+          - Sequencing: general/ordering/sequencing.md
+          - Chemical inventory: general/ordering/chemicals.md
+          - Addgene orders: general/ordering/addgene.md
       - Wet-lab reference: general/wet-lab-reference.md
       - Sterilization and waste: general/sterilization-and-waste.md
   - Protocols:
@@ -51,12 +56,23 @@ nav:
       - Molecular biology:
           - DNA extraction: protocols/molecular-biology/dna-extraction.md
           - Electrocompetent cells: protocols/molecular-biology/electrocompetent-cells.md
+      - Culture handling:
+          - Glycerol stocks: protocols/glycerol-stocks.md
   - Recipes:
       - recipes/index.md
-      - 1× PBS: recipes/pbs.md
-      - Salt stocks: recipes/salt-stocks.md
-      - Electrophoresis buffers: recipes/electrophoresis-buffers.md
-      - Reagent stocks: recipes/reagent-stocks.md
+      - Media:
+          - Autoinduction media: recipes/autoinduction.md
+      - Buffers:
+          - 1× PBS: recipes/pbs.md
+          - Electrophoresis buffers: recipes/electrophoresis-buffers.md
+      - Stock solutions:
+          - Salt stocks: recipes/salt-stocks.md
+          - Reagent stocks: recipes/reagent-stocks.md
+      - Enzyme mixes:
+          - DIY KLD mix: recipes/diy-kld-mix.md
+  - Training:
+      - training/index.md
+      - Onboarding: training/onboarding.md
   - Instruments:
       - instruments/index.md
 
@@ -89,4 +105,4 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright 2026, Wayment-Steele lab. Licensed under MIT.
+copyright: Copyright 2026, Wayment-Steele lab. Licensed under MIT. <a href=github.com/odcambc/hws-lab-docs>Code on github</a>.

@@ -19,7 +19,7 @@ search to find a protocol, recipe, instrument guide, or general lab procedure.
 - [Instruments](instruments/index.md) — operating and maintenance instructions
 - [General lab information](general/index.md) — ordering, safety, and routine
   lab operations
-- [Onboarding](start-here/onboarding.md) — required setup and training
+- [Onboarding](training/onboarding.md) — required setup and training
 
 ## Document status
 
@@ -29,10 +29,10 @@ validated procedures.
 
 ## Recently reviewed
 
-| Page | Section | Status | Last reviewed |
-|---|---|---|---|
-| [Genomic DNA extraction](protocols/molecular-biology/dna-extraction.md) | Molecular biology | <span class="status approved">Approved</span> | July 2026 |
-| [1× PBS](recipes/pbs.md) | General | <span class="status approved">Approved</span> | July 2026 |
+| Page                                                                    | Section           | Status                                        | Last reviewed |
+| ----------------------------------------------------------------------- | ----------------- | --------------------------------------------- | ------------- |
+| [Genomic DNA extraction](protocols/molecular-biology/dna-extraction.md) | Molecular biology | <span class="status approved">Approved</span> | July 2026     |
+| [1× PBS](recipes/pbs.md)                                                | General           | <span class="status approved">Approved</span> | July 2026     |
 
 !!! note
     Some pages were created from legacy notes or as examples during the site

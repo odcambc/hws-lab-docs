@@ -9,12 +9,10 @@ The site groups lab documentation by its purpose:
 
 ## Using a protocol
 
-Check the status panel at the top of the page. Draft and retired procedures
-must not be used for routine work. Read the entire procedure—including safety
-notes and stopping points—before beginning.
+Check the status panel at the top of the page for the status and
+last updated time. Draft procedures aren't complete.
 
 ## Improving a protocol
 
-Small corrections are welcome. Changes that affect reagents, timing,
-temperature, safety, or expected results require review by the protocol owner.
-See [Contributing](contributing.md) for the review process.
+Propose a change with a pull request and request a review:
+see [contributing](contributing.md).
