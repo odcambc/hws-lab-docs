@@ -1,6 +1,6 @@
 site_name: Wayment-Steele Lab Protocols
 site_description: Protocols and SOPs for lab work
-site_url: https://WaymentSteeleLab.github.io/hws-lab-docs/
+site_url: https://odcambc.github.io/hws-lab-docs/
 exclude_docs: |
   protocols/_template.md
 
