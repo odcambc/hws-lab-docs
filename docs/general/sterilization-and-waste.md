@@ -1,51 +1,35 @@
 ---
 title: Sterilization, decontamination, and waste
 tags:
-  - Draft
   - Safety
   - Lab operations
+  - Draft
 ---
 
 # Sterilization, decontamination, and waste
 
-<div class="protocol-meta" markdown>
-
-| | |
-|---|---|
-| **Status** | <span class="status draft">Incomplete draft</span> |
-| **Owner** | Unassigned |
-| **Version** | 0.1 |
-| **Reformatted** | 27 July 2026 |
-
-</div>
-
-!!! danger "Do not use as an approved SOP"
-    The legacy document contains missing cycle names, undefined replacement
-    intervals, and incomplete sharps and chemical-waste sections. Follow the
-    current institutional EHS procedures and posted equipment instructions
-    until this page is completed and approved.
 
 ## Filtration
 
 ### Pore size
 
-| Nominal pore size | Legacy use |
-|---|---|
-| 0.22 µm | Sterilizing filtration |
-| 0.45 µm | Clarifying filtration; not treated as sterilization |
+| Nominal pore size | Use                                                 |
+| ----------------- | --------------------------------------------------- |
+| 0.22 µm           | Sterilizing filtration                              |
+| 0.45 µm           | Clarifying filtration; not treated as sterilization |
 
 Suitability also depends on the organism, solution, filter construction,
 process volume, and validated sterility requirement.
 
 ### Membrane selection
 
-| Membrane | Typical use recorded in legacy notes |
-|---|---|
-| PES | Aqueous solutions |
-| Hydrophilic PVDF | Protein-containing solutions |
-| Hydrophobic PTFE | Corrosive or organic solutions |
-| Nylon | Aqueous solutions |
-| Cellulose acetate | Aqueous solutions |
+| Membrane              | Typical use                    |
+| --------------------- | ------------------------------ |
+| PES                   | Aqueous solutions              |
+| Hydrophilic PVDF      | Protein-containing solutions   |
+| Hydrophobic PTFE      | Corrosive or organic solutions |
+| Nylon                 | Aqueous solutions              |
+| Cellulose acetate     | Aqueous solutions              |
 | Regenerated cellulose | Aqueous solutions and solvents |
 
 !!! warning "Check compatibility"
@@ -54,14 +38,14 @@ process volume, and validated sterility requirement.
 
 ## Autoclaving
 
-The legacy notes give **121 °C at 15 psi for approximately 30 minutes** as a
+**121 °C at 15 psi for approximately 30 minutes** as a
 general reference, with longer processing potentially required for a full
-chamber. This is not a validated cycle.
+chamber.
 
-| Load | Exhaust setting recorded in legacy notes |
-|---|---|
-| Liquids | Slow exhaust |
-| Solids and dry goods | Fast exhaust |
+| Load                 | Exhaust setting |
+| -------------------- | --------------- |
+| Liquids              | Slow exhaust    |
+| Solids and dry goods | Fast exhaust    |
 
 !!! important "Indicators"
     Autoclave tape indicates exposure to a threshold condition; it does not
@@ -83,10 +67,10 @@ The legacy notes mention bleach and ethanol but leave their concentrations,
 contact times, preparation methods, compatibility, and replacement intervals
 undefined.
 
-| Agent | Required information before approval |
-|---|---|
-| Bleach solution | Final concentration, preparation method, contact time, compatible surfaces, expiration |
-| Ethanol solution | Final concentration, contact time, compatible surfaces, expiration |
+| Agent            | Required information before approval                                                   |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| Bleach solution  | Final concentration, preparation method, contact time, compatible surfaces, expiration |
+| Ethanol solution | Final concentration, contact time, compatible surfaces, expiration                     |
 
 Do not mix bleach with acids, ammonia, alcohols, or incompatible cleaners.
 Consult the relevant safety documentation before use.
@@ -127,20 +111,11 @@ No usable instructions were present in the legacy document.
     Do not place sharps or chemical waste into the biological-waste workflow.
     Use the current institutional collection containers and EHS procedures.
 
-## Approval checklist
 
-- [ ] Assign an EHS-qualified owner
-- [ ] Link the institutional biosafety and waste policies
-- [ ] Identify approved bag type and waste cycle
-- [ ] Validate autoclave cycles by load type
-- [ ] Define indicator and recordkeeping requirements
-- [ ] Define bleach and ethanol formulations and replacement intervals
-- [ ] Complete sharps, glass, and chemical-waste workflows
-- [ ] Confirm serological-pipette classification
-- [ ] Add spill, failed-cycle, and equipment-fault procedures
 
-## Source history
-
-Reformatted from `docs/general/wet-lab-sops.txt`. The legacy file remains as the
-source record pending EHS review and archival.
-
+<div class="protocol-meta" markdown>
+|                  |              |
+| ---------------- | ------------ |
+| **Last updated** | 27 July 2026 |
+| **Updated by**   | Chris        |
+</div>

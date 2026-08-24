@@ -10,12 +10,6 @@
   --lab-table-head: #edf2f3;
   --lab-table-stripe: #f8fafb;
   --lab-code-bg: #eef3f3;
-  --lab-approved-fg: #254f43;
-  --lab-approved-bg: #e5f0ec;
-  --lab-approved-border: #8bb3a5;
-  --lab-draft-fg: #6a4a17;
-  --lab-draft-bg: #f5ead4;
-  --lab-draft-border: #d6ad65;
   --lab-danger-border: #b84a4a;
   --lab-warning-border: #b7791f;
   --lab-radius: .18rem;
@@ -40,12 +34,6 @@
   --lab-table-head: #26353c;
   --lab-table-stripe: #1c282e;
   --lab-code-bg: #24343a;
-  --lab-approved-fg: #c5eadc;
-  --lab-approved-bg: #1f3a33;
-  --lab-approved-border: #5e9988;
-  --lab-draft-fg: #f2d9a7;
-  --lab-draft-bg: #3b2d18;
-  --lab-draft-border: #ad7c2f;
   --lab-danger-border: #d07474;
   --lab-warning-border: #d89a38;
   --md-typeset-a-color: var(--lab-link);
@@ -201,43 +189,14 @@
   border-left-color: var(--lab-warning-border);
 }
 
-.status {
-  display: inline-block;
-  padding: .08rem .44rem;
-  border: 1px solid currentColor;
-  border-radius: .16rem;
-  font-size: .68rem;
-  font-weight: 700;
-  line-height: 1.35;
-  letter-spacing: .01em;
-  white-space: nowrap;
-}
-
-.status.approved {
-  border-color: var(--lab-approved-border);
-  color: var(--lab-approved-fg);
-  background: var(--lab-approved-bg);
-}
-
-.status.draft,
-.status.needs-review {
-  border-color: var(--lab-draft-border);
-  color: var(--lab-draft-fg);
-  background: var(--lab-draft-bg);
-}
-
 .protocol-meta {
-  margin: 1rem 0 1.5rem;
-  padding: .55rem .8rem;
-  border: 1px solid var(--lab-border);
-  border-left: .24rem solid var(--lab-accent);
-  border-radius: var(--lab-radius);
-  background: var(--lab-panel);
+  margin: 2.5rem 0 1.5rem;
+  padding-top: .7rem;
+  border-top: 1px solid var(--lab-border);
 }
 
 .protocol-meta table:not([class]) {
   display: table;
-  width: 100%;
   margin: 0;
   border: 0;
   font-size: .72rem;
@@ -253,12 +212,13 @@
 }
 
 .protocol-meta td {
-  padding: .28rem .45rem !important;
+  padding: 0 .9rem 0 0 !important;
+  overflow-wrap: anywhere;
   vertical-align: middle !important;
 }
 
 .protocol-meta td:first-child {
-  width: 9.5rem;
+  width: auto;
   color: var(--lab-muted);
 }
 

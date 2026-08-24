@@ -41,8 +41,7 @@ repository settings, set **Pages > Build and deployment > Source** to
 
 <https://WaymentSteeleLab.github.io/hws-lab-docs/>
 
-Protocol content lives in `docs/`. Copy
-`docs/protocols/_template.md` when starting a new protocol.
+Protocol content lives in `docs/`.
 
 The project retains `mkdocs.yml` as Zensical's supported compatibility
 configuration. This avoids an unnecessary content or configuration rewrite

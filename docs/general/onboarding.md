@@ -38,9 +38,9 @@ form cannot yet verify your record.
 - Add the lab calendar.
 - Request access to the lab resources folder: `WS_lab_resources`.
 - Join the lab ResearchDrive.
+- Sign up for [Benchling](https://benchling.com/) and get an invite to join the lab organization.
 - Request a CHTC account through the [Biochemistry Job Board](https://jobboard.biochem.wisc.edu/).
 - Sign up for [iLab](https://uwmadison.ilab.agilent.com/landing/1802) and request BIF access through the [Biophysics Instrumentation Facility](https://bif.wisc.edu/) if your work requires it.
-- Optional: set up ordering access in Workday if you will purchase lab supplies.
 
 ## Network and remote access
 
@@ -48,8 +48,9 @@ form cannot yet verify your record.
 - Install the [general UW VPN](https://it.wisc.edu/services/wiscvpn/) if needed for campus services.
 - Add the library proxy [bookmarklet](https://kb.wisc.edu/library/4773) for journal access.
 
-## First-week review
-
-Ask your mentor where to find current guides, SOPs, and lab duties. Review this
-protocol library, especially the Start here, General lab info, and relevant
-protocol sections, and ask questions before beginning unfamiliar work.
+<div class="protocol-meta" markdown>
+|                  |              |
+| ---------------- | ------------ |
+| **Last updated** | 27 July 2026 |
+| **Updated by**   | Chris        |
+</div>

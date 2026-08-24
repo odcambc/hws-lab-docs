@@ -1,19 +1,9 @@
 ---
 title: Preparing glycerol stock
-tags:
-  - Draft
 ---
 
 # Preparing glycerol stocks
 
-|                    |                |
-| ------------------ | -------------- |
-| **Status**         | Draft          |
-| **Owner**          | Team or person |
-| **Version**        | 0.1            |
-| **Last reviewed**  | Not reviewed   |
-| **Review due**     | Not scheduled  |
-| **Estimated time** |                |
 
 ## Purpose
 
@@ -24,7 +14,7 @@ tags:
 ### Materials
 
 50% glycerol
-Culture
+Bacterial culture
 
 ### Equipment
 
@@ -34,5 +24,10 @@ Culture
 
 ## Troubleshooting
 
-## Change history
 
+<div class="protocol-meta" markdown>
+|                  |              |
+| ---------------- | ------------ |
+| **Last updated** | 27 July 2026 |
+| **Updated by**   | Chris        |
+</div>

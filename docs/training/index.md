@@ -1,3 +1,0 @@
-# Training
-
-- [Onboarding](onboarding.md)

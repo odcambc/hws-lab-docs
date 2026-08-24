@@ -1,32 +1,12 @@
 ---
 title: Preparation of electrocompetent E. coli cells
 tags:
-  - Draft
   - Molecular biology
   - Bacterial culture
   - Electroporation
 ---
 
 # Preparation of electrocompetent *E. coli* cells
-
-<div class="protocol-meta" markdown>
-
-| | |
-|---|---|
-| **Status** | <span class="status draft">Draft</span> |
-| **Owner** | Unassigned |
-| **Version** | 0.1 |
-| **Adapted** | 27 July 2026 |
-| **Last reviewed** | Not reviewed |
-| **Review due** | Not scheduled |
-| **Estimated time** | Overnight culture plus most of the following day |
-
-</div>
-
-!!! danger "Not approved for laboratory use"
-    This page is an unvalidated adaptation of an external protocol. A qualified
-    protocol owner must resolve the approval blockers, complete a risk
-    assessment, and validate performance before routine use.
 
 ## Purpose
 
@@ -63,21 +43,21 @@ strain range. Confirm that this method is appropriate for the intended strain.
 
 ### Reagents and solutions
 
-| Item | Amount needed | Preparation |
-|---|---:|---|
-| LB medium | 50 mL + 1 L | Pre-warm the 1 L portion to 37 °C |
-| Ultrapure water | 500 mL | Sterile and ice-cold |
-| 10% glycerol | At least 260 mL | Sterile and ice-cold |
-| GYT medium | At least several mL | Sterile and ice-cold; see formula below |
-| Fresh *E. coli* colony | 1 | From a fresh agar plate |
+| Item                   |       Amount needed | Preparation                             |
+| ---------------------- | ------------------: | --------------------------------------- |
+| LB medium              |         50 mL + 1 L | Pre-warm the 1 L portion to 37 °C       |
+| Ultrapure water        |              500 mL | Sterile and ice-cold                    |
+| 10% glycerol           |     At least 260 mL | Sterile and ice-cold                    |
+| GYT medium             | At least several mL | Sterile and ice-cold; see formula below |
+| Fresh *E. coli* colony |                   1 | From a fresh agar plate                 |
 
 ### GYT medium
 
-| Component | Final concentration |
-|---|---:|
-| Glycerol | 10% (v/v) |
-| Yeast extract | 0.12% (w/v) |
-| Tryptone | 0.25% (w/v) |
+| Component     | Final concentration |
+| ------------- | ------------------: |
+| Glycerol      |           10% (v/v) |
+| Yeast extract |         0.12% (w/v) |
+| Tryptone      |         0.25% (w/v) |
 
 Pass the prepared medium through a pre-rinsed 0.22 µm filter. The source stores
 it in 2.5 mL aliquots at 4 °C; the protocol owner must establish a local
@@ -187,15 +167,15 @@ expiration period.
 The source includes an arcing check but no direct transformation-efficiency
 test. Before approval, define and validate:
 
-| Check | Draft criterion |
-|---|---|
-| Growth phase | Harvested at OD600 0.4 and not above |
-| Cold chain | Maintained at or below 4 °C after harvest |
-| Conductivity | No arcing under the approved test condition |
-| Cell concentration | Estimated at 2-3 × 10^10 cells/mL |
-| Transformation efficiency | **Not yet defined** |
-| Sterility or contamination check | **Not yet defined** |
-| Storage stability | **Not yet defined** |
+| Check                            | Draft criterion                             |
+| -------------------------------- | ------------------------------------------- |
+| Growth phase                     | Harvested at OD600 0.4 and not above        |
+| Cold chain                       | Maintained at or below 4 °C after harvest   |
+| Conductivity                     | No arcing under the approved test condition |
+| Cell concentration               | Estimated at 2-3 × 10^10 cells/mL           |
+| Transformation efficiency        | **Not yet defined**                         |
+| Sterility or contamination check | **Not yet defined**                         |
+| Storage stability                | **Not yet defined**                         |
 
 Record the strain, lot identifier, preparation date, operator, measured OD,
 estimated concentration, number of aliquots, storage location, test conditions,
@@ -217,20 +197,9 @@ and all deviations.
     additional wash and retest procedure must be defined before this protocol
     can be approved.
 
-## Approval blockers
-
-- Assign a scientific owner and applicable biosafety classification.
-- Confirm the supported *E. coli* strains.
-- Define the electroporator model and conductivity-test setting.
-- Clarify the extra wash and retest procedure following arcing.
-- Establish a transformation-efficiency control and acceptance threshold.
-- Define contamination testing, labeling, expiration, and storage temperature.
-- Verify vessel capacities, rotor limits, and centrifuge settings locally.
-- Run and document a validation batch.
-
-## Change history
-
-| Version | Date | Change | Reviewer |
-|---|---|---|---|
-| 0.1 | 2026-07-27 | Initial structured adaptation from the Li Lab source | Not reviewed |
-
+<div class="protocol-meta" markdown>
+|                  |              |
+| ---------------- | ------------ |
+| **Last updated** | 27 July 2026 |
+| **Updated by**   | Chris        |
+</div>

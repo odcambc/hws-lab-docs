@@ -40,21 +40,20 @@ nav:
   - Home: index.md
   - Start here:
       - start-here/index.md
-      - Contributing: start-here/contributing.md
   - General lab info:
       - general/index.md
       - Ordering:
           - general/ordering/index.md
           - Ordering and receiving: general/ordering/ordering.md
           - Sequencing: general/ordering/sequencing.md
-          - Chemical inventory: general/ordering/chemicals.md
           - Addgene orders: general/ordering/addgene.md
       - Wet-lab reference: general/wet-lab-reference.md
       - Sterilization and waste: general/sterilization-and-waste.md
+      - Onboarding: general/onboarding.md
+      - Lab tasks: general/lab-tasks.md
   - Protocols:
       - protocols/index.md
       - Molecular biology:
-          - DNA extraction: protocols/molecular-biology/dna-extraction.md
           - Electrocompetent cells: protocols/molecular-biology/electrocompetent-cells.md
       - Culture handling:
           - Glycerol stocks: protocols/glycerol-stocks.md
@@ -70,11 +69,9 @@ nav:
           - Reagent stocks: recipes/reagent-stocks.md
       - Enzyme mixes:
           - DIY KLD mix: recipes/diy-kld-mix.md
-  - Training:
-      - training/index.md
-      - Onboarding: training/onboarding.md
   - Instruments:
       - instruments/index.md
+      - FPLC: instruments/FPLC/index.md
 
 plugins:
   - search
