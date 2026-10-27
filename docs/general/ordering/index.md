@@ -1,6 +1,6 @@
-# Ordering
+# Ordering and travel
 
-How to order things in the lab.
+How to pay for things in the lab.
 
 ## Purchasing
 
@@ -8,3 +8,7 @@ How to order things in the lab.
 - [Sequencing](sequencing.md) - Plasmidsaurus sequencing
 - [Addgene orders](addgene.md) - requesting plasmids from Addgene
 - [Sequencing](sequencing.md) - requesting sequencing from Plasmidsaurus or the UW core
+
+## Travel
+
+- [Travel and conferences](travel.md) - how to pay for travel and conferences
